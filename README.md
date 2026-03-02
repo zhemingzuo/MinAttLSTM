@@ -1,1 +1,4 @@
-# MinAttLSTM
+# **MinAttLSTM: A Multi-scale Attention-driven Parallel LSTM Framework for Integrated Prediction of Mid-Winter Break-Ups on Canadian Rivers**
+By [Zheming Zuo](https://scholar.google.co.uk/citations?user=jzpjf4UAAAAJ&hl=en)<sup>1</sup>, [Zoe Li](https://scholar.google.com/citations?user=q-NmQAEAAAAJ&hl=en)<sup>2</sup>, and [Shuo Wang](https://scholar.google.com.sg/citations?user=Flpe3S4AAAAJ&hl=en)<sup>1</sup><br/>
+<sup>1</sup> 1School of Computer Science, University of Birmingham, Birmingham, B15 2TT, UK<br/>
+<sup>2</sup> Department of Civil Engineering, McMaster University, Hamilton, ON L8S 4L8, Canada<br/>

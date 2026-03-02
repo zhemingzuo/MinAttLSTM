@@ -1,3 +1,7 @@
 .idea
 .git
 .DS_Store
+
+data/
+scripts_bk/
+src/minattlstm/__pycache__/

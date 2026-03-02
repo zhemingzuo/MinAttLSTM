@@ -14,6 +14,7 @@ Our manuscript is coming soon. Please stay tuned.
 1. [Preparation](#preparation)
 2. [Installation](#installation)
 3. [Run](#run)
+4. [Acknowledgment](#acknowledgment)
 
 ### _Preparation_
 Clone the github repository.
@@ -44,3 +45,7 @@ Run our MinAttLSTM for integrated MWB multi-task monitoring via
 ```Shell
   python scripts/train_OneStage_MinAttLSTM.py
 ```
+
+### _Acknowledgment_
+
+This work was supported by Engineering and Physical Sciences Research Council (Grant No: EP/Y002539/1),

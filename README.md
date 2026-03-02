@@ -40,7 +40,7 @@ Run our MinAttLSTM for MWB timing prediction  via
   python scripts/train_L2_MinAttLSTM.py
 ```
 
-Run our MinAttLSTM for integrated multi-task monitoring via
+Run our MinAttLSTM for integrated MWB multi-task monitoring via
 ```Shell
-  python scripts/OneStage_MinAttLSTM.py
+  python scripts/train_OneStage_MinAttLSTM.py
 ```

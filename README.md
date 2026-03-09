@@ -48,4 +48,4 @@ Run our MinAttLSTM for integrated MWB multi-task monitoring via
 
 ### _Acknowledgment_
 
-This work was supported by Engineering and Physical Sciences Research Council (Grant No: EP/Y002539/1),
+This work was supported by Engineering and Physical Sciences Research Council (Grant No: EP/Y002539/1).
